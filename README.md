@@ -42,7 +42,7 @@ Zustand (Manejo de estado)
 ⚡ Cómo Ejecutarlo
 
 1️⃣ Clona el repositorio
- git clone https://github.com/tu-usuario/SystemInventoryAI.git 
+ git clone https://github.com/angeljrcurtido/SystemInventoryAI
  cd SystemInventoryAI
 2️⃣ Configurar y Ejecutar el Backend (Flask + TensorFlow)
 # Crea un entorno virtual (opcional pero recomendado)
