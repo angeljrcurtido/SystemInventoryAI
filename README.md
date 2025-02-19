@@ -1,6 +1,6 @@
 SystemInventoryAI 🚀
 
-Sistem****a de Gestión de Inventarios con Reconocimiento de Imágenes
+Sistema de Gestión de Inventarios con Reconocimiento de Imágenes
 
 SystemInventoryAI es una aplicación avanzada para la gestión de inventarios que utiliza visión artificial e inteligencia artificial para el reconocimiento de productos a partir de imágenes. El sistema optimiza la administración de ventas e inventarios mediante la integración de Flask, TensorFlow, MongoDB Atlas y React con TypeScript.
 
