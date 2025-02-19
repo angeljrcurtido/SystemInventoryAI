@@ -1,6 +1,6 @@
 SystemInventoryAI 🚀
 
-Sistema de Gestión de Inventarios con Reconocimiento de Imágenes
+Sistem****a de Gestión de Inventarios con Reconocimiento de Imágenes
 
 SystemInventoryAI es una aplicación avanzada para la gestión de inventarios que utiliza visión artificial e inteligencia artificial para el reconocimiento de productos a partir de imágenes. El sistema optimiza la administración de ventas e inventarios mediante la integración de Flask, TensorFlow, MongoDB Atlas y React con TypeScript.
 
@@ -42,9 +42,14 @@ Zustand (Manejo de estado)
 ⚡ Cómo Ejecutarlo
 
 1️⃣ Clona el repositorio
- git clone https://github.com/angeljrcurtido/SystemInventoryAI
+
+ git clone https://github.com/angeljrcurtido/SystemInventoryAI.git
  cd SystemInventoryAI
-2️⃣ Configurar y Ejecutar el Backend (Flask + TensorFlow)
+
+🖥️ Ejecutar el Servidor (Backend)
+
+cd server
+
 # Crea un entorno virtual (opcional pero recomendado)
 python -m venv venv
 source venv/bin/activate  # Linux/Mac
@@ -55,12 +60,15 @@ pip install -r requirements.txt
 
 # Ejecuta el servidor Flask
 python app.py
-3️⃣ Configurar y Ejecutar el Frontend (React + Vite)
-cd frontend
+
+🌐 Ejecutar el Cliente (Frontend)
+
+cd client
 npm install
 npm run dev
 
 Accede a la aplicación en: http://localhost:5173 (o el puerto de Vite).
+
 🎯 Casos de Uso
 
 📸 Automatización de inventarios mediante reconocimiento de imágenes.
@@ -87,4 +95,3 @@ Abre un Pull Request.
 Este proyecto está bajo la licencia MIT. Puedes usarlo libremente, pero se agradece la atribución. 🙌
 
 🚀 SystemInventoryAI: Optimizando la gestión de inventarios con IA y automatización 🎯
- 
